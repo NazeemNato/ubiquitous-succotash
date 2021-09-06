@@ -124,6 +124,9 @@ function App() {
           zoomOnScroll={false}
           draggable={false}
           paneMoveable={false}
+          zoomActivationKeyCode={null}
+          zoomOnDoubleClick={false}
+          zoomOnPinch={false}
         >
           <Background color="#aaa" gap={16} />
         </ReactFlow>
