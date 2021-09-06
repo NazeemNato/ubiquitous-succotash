@@ -51,14 +51,13 @@ const elements = [
   { id: "e1-4", source: "1", target: "4" },
   { id: "e2-4", source: "2", target: "4" },
   { id: "e3-4", source: "3", target: "4" },
-  { id: "e4-5", source: "4", target: "5", label: "Other coffee 5000" },
-  { id: "e4-6", source: "4", target: "6", label: "Arabica coffee 6000" },
+  { id: "e4-5", source: "4", target: "5" },
+  { id: "e4-6", source: "4", target: "6"},
   {
     id: "e6-7",
     source: "6",
     target: "7",
     animated: true,
-    label: "Arabica coffee 1000",
   },
 ];
 
